@@ -1,0 +1,30 @@
+{
+    "name": "test number pad",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "sensors": "github:emakefun/pxt-sensorbit#c9812bf3589ca894635e1cf299b3f05efd24ec57"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v3.0.61",
+        "tag": "v3.0.61",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/9ff91acb8524c6a52fee90cf7194a4643c424363",
+        "target": "6.0.15",
+        "pxt": "6.0.35",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
